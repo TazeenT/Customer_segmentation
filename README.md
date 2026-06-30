@@ -1,5 +1,6 @@
 # Customer_segmentation
 # Customer Segmentation using Hierarchical Clustering
+**Live Demo:** https://customers-segment.streamlit.app/
 
 This project implements a **customer segmentation system** using **Hierarchical Agglomerative Clustering (Ward linkage)** and deploys it as an **interactive Streamlit web application**.
 
